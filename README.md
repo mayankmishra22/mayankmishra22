@@ -22,13 +22,8 @@ Myself a Computer Science graduate with a specialization in **Artificial Intelli
 - **Other**: Data Analysis, Machine Learning, RPA, Web Scraping,Automated Testing
 
 ### 📂 Featured Projects:
-- **Suggestive Analytics**: Improved HCP targeting for event planning using ML  
-- **Pharma Tender Automation**: Automated CSV scraping from Chilean government portal using UiPath  
 - **Fruit Quality Detection**: Attention-based model for classifying fruits  
 - **Walmart Sales Analysis**: Exploratory analysis with visual dashboards  
-
-> You can find some of my personal and academic projects pinned below 👇
-
 ---
 
 Feel free to connect or reach out!
